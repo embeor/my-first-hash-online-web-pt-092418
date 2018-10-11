@@ -4,7 +4,7 @@ hash = {"key" => "value", "another_key" => "another value"}
 end
 
 
-def shipping_manifest (the_manifest)
+def shipping_manifest 
 the_manifest = {"whale bone corsets" => "five", "porcelain vases" => "two", "oil paintings" => "three"}
 end
 
